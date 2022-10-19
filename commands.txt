@@ -1,0 +1,68 @@
+1  yum install fontconfig java-11-openjdk
+    2  yum install jenkins
+    3  service jenkins status
+    4  service jenkins start
+    5  ssh ec2-user@3.137.202.166
+    6  pwd
+    7  ifconfig
+    8  java -version
+    9  amazon-linux-extras install java-openjdk11
+   10  java -version
+   11  service jenkins status
+   12  service jenkins start
+   13  service jenkins status
+   14  chkconfig jenkins on
+   15  history
+   16  top
+   17  pwd
+   18  ls
+   19  touch deepika
+   20  mkdir demo
+   21  vi deepika
+   22  ls
+   23  cd
+   24  cd demo
+   25  linux
+   26  demo2
+   27  cd demo2
+   28  ls
+   29  touch demo1 demo2 demo3 demo4
+   30  ls
+   31  ls -lrt
+   32  cp
+   33  find deepika
+   34  cd
+   35  find deepika
+   36  cat
+   37  id
+   38  ls -lrt
+   39  vi deepika
+   40  vi deepika 1
+   41  diff deepika deepika 1
+   42  vi deepika1
+   43  diff deepika deepika1
+   44  ping
+   45  history
+   46  hostname
+   47  chmod
+   48  chmod 742 deepika
+   49  ls -lrt
+   50  nl deepika
+   51  mv deepika
+   52  mv deepika deepika1
+   53  cat deepika1
+   54  rm deepika
+   55  cd
+   56  cd -demo
+   57  cd - demo
+   58  cd demo
+   59  ls -lrt
+   60  rm demo1
+   61  ls -lrt
+   62  rm demo
+   63  cd demo
+   64  cd ..
+   65  rm -f
+   66  rm -f demo
+   67  rm -r demo
+   68  history
